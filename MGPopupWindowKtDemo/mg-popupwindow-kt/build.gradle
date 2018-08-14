@@ -35,7 +35,7 @@ dependencies {
 apply plugin: 'com.novoda.bintray-release'
 
 //項目主頁
-def siteUrl = 'https://github.com/CrazyDavis/MGPopupWindowKt'
+def siteUrl = 'https://github.com/MagicalWater/MGPopupWindowKt'
 
 
 //ext {
