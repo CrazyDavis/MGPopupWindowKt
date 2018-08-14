@@ -5,7 +5,7 @@
 繼承自 PopupWindow, 加入封裝  
 參考 SmartPopupWindow 所改  
 
-## 版本:  
+## 版本  
 0.0.1 - 初始專案提交  
 
 ## 添加依賴  
