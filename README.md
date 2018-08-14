@@ -12,4 +12,4 @@
 
 ### Gradle  
 compile 'org.mgwater.mgbase:mg-popupwindow-kt:{version}'  
-( 其中 {version} 請自行替入此版號 [ ![Download](https://api.bintray.com/packages/water/mgbase/mg-popupwindow-kt/images/download.svg) ](https://bintray.com/water/mgbase/mg-popupwindow-kt/_latestVersion)   )
+( 其中 {version} 請自行替入此版號 [ ![Download](https://api.bintray.com/packages/water/mgbase/mg-popupwindow-kt/images/download.svg) ](https://bintray.com/water/mgbase/mg-popupwindow-kt/_latestVersion) )
